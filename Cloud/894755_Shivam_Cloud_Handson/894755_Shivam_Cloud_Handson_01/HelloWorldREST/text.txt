@@ -1,0 +1,1 @@
+For creating a jar file we need to do maven build and the goal will be package.

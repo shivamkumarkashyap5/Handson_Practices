@@ -1,0 +1,8 @@
+1)create four databases and also respective tables with their data
+
+create database AuthenticationDb;
+create database ProductDb;
+
+create database ShoppingCartDb;
+
+create database OrderDb;
